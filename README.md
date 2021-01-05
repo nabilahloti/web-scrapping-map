@@ -2,5 +2,6 @@
 Requirements:
   1. Jupyter Notebook
   2. Chrome driver*
+  3. libraries
   
-  *Make sure download chrome driver that compatible with chrome version used/installed
+  
